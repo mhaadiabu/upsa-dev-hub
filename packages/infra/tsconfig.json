@@ -1,0 +1,4 @@
+{
+  "extends": "@upsa-dev-hub/config/tsconfig.base.json",
+  "include": ["alchemy.run.ts"]
+}
