@@ -21,6 +21,6 @@
     "@tailwindcss/vite": "^4.3.5",
     "@upsa-dev-hub/config": "workspace:*",
     "tailwindcss": "^4.3.5",
-    "typescript": "catalog:"
+    "tsrs": "catalog:"
   }
 }
