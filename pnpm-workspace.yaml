@@ -10,6 +10,6 @@ overrides:
   vite@*: npm:@voidzero-dev/vite-plus-core@1.6.0
 catalog:
   zod: ^4.6.7
-  typescript: ^6.0.3
+  tsrs: 7.1.0-beta.tsrs5
   varlock: 1.25.0
   "@cloudflare/workers-types": ^5.20261112.1
