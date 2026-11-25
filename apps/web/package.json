@@ -10,12 +10,12 @@
     "env:generate": "varlock codegen"
   },
   "dependencies": {
-    "astro": "^7.4.11",
+    "astro": "^7.4.13",
     "varlock": "catalog:",
     "zod": "catalog:"
   },
   "devDependencies": {
-    "@alchemy.run/frontend-frameworks": "2.0.0-beta.86",
+    "@alchemy.run/frontend-frameworks": "2.0.0-beta.87",
     "@astrojs/check": "^0.9.12",
     "@cloudflare/workers-types": "catalog:",
     "@tailwindcss/vite": "^4.3.5",
